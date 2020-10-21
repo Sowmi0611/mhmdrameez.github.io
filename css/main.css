@@ -1496,7 +1496,7 @@ header .logo a {
 	padding-bottom: 15rem;
 }
 #about .section-intro {
-	margin-bottom: 3rem;
+	margin-bottom: 2.99rem;
 }
 
 .intro-info {
@@ -2075,7 +2075,7 @@ header .logo a {
 	text-align: center;
 }
 #stats .row {
-	max-width: 1440px;
+	max-width: 1439px;
 }
 #stats .stat {
 	border-left: 1px solid rgba(255, 255, 255, 0.12);
